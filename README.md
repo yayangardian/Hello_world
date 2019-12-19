@@ -1,2 +1,3 @@
-# Hello_world
-Just another repository
+# Hello_World
+
+I just wanna learn about code here
